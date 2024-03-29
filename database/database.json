@@ -1,0 +1,52 @@
+{
+  "renda": [
+    {
+      "id": 1,
+      "descricao": "Base Inicial",
+      "valor": "41800.00",
+      "periodo": "Fixo",
+      "data": "29/01/2024",
+      "tipo": false
+    },
+    {
+      "id": 10,
+      "descricao": "Claro móvel",
+      "valor": "68.22",
+      "periodo": "Fixo",
+      "data": "22/01/2024",
+      "tipo": true
+    },
+    {
+      "id": 14,
+      "descricao": "Claro Internet/Tv",
+      "valor": "179.13",
+      "periodo": "Fixo",
+      "data": "22/01/2024",
+      "tipo": true
+    },
+    {
+      "id": 4,
+      "descricao": "HDO Max",
+      "valor": "34.90",
+      "periodo": "Fixo",
+      "data": "22/01/2024",
+      "tipo": true
+    },
+    {
+      "id": 5,
+      "descricao": "Netflix",
+      "valor": "39.9",
+      "periodo": "Fixo",
+      "data": "22/01/2024",
+      "tipo": true
+    },
+    {
+      "id": 6,
+      "descricao": "Bluefit",
+      "valor": "121.9",
+      "periodo": "Fixo",
+      "data": "22/01/2024",
+      "tipo": true
+    }
+  ]
+}
